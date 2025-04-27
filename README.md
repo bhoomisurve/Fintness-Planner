@@ -1,6 +1,6 @@
-# 🏋️‍♂️ AIMx Fitness - AI Powered Fitness Planner
+# 🏋️‍♂️ Fitness Planner - AI Powered Fitness Planner
 
-AIMx Fitness is your **AI-powered personal trainer and wellness coach**. It helps users generate personalized **workout plans**, **diet charts**, and **mental wellbeing routines** based on their fitness goals, diet restrictions, and lifestyle.
+Fitness Planner is your **AI-powered personal trainer and wellness coach**. It helps users generate personalized **workout plans**, **diet charts**, and **mental wellbeing routines** based on their fitness goals, diet restrictions, and lifestyle.
 
 Both **backend (Flask API)** and **frontend (HTML/CSS UI)** are included in this repository.
 
@@ -49,7 +49,7 @@ Both **backend (Flask API)** and **frontend (HTML/CSS UI)** are included in this
 
 # 🚀 Let's AIMx for Fitness!
 
-AIMx Fitness is designed to guide you in achieving your health goals with AI-driven precision, motivation, and smart progress tracking.
+Fitness Planner is designed to guide you in achieving your health goals with AI-driven precision, motivation, and smart progress tracking.
 
 ---
 
